@@ -1,0 +1,26 @@
+{
+  "name": "seo-apis-that-rank-pages",
+  "description": "This GitHub repo is a powerhouse collection of SEO APIs you can start using immediately to research keywords, audit pages, and climb rankings. One of the most valuable SEO API lists on GitHub.",
+  "topics": [
+    "seo",
+    "apis",
+    "keyword-research",
+    "backlinks",
+    "technical-seo",
+    "content-marketing",
+    "ranking",
+    "apify",
+    "awesome-list",
+    "developers",
+    "growth",
+    "serp"
+  ],
+  "total": 903,
+  "counts": {
+    "keyword-research": 287,
+    "technical-audits": 161,
+    "backlinks-authority": 23,
+    "content-optimization": 28,
+    "other-seo-tools": 404
+  }
+}
