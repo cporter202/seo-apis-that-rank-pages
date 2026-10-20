@@ -420,6 +420,12 @@ Everything else SEO-adjacent — niche scrapers, directories, and misc ranking h
 | [YouTube Video Statistics Scraper 📊](https://apify.com/easyapi/youtube-video-statistics-scraper?fpr=p2hrc6) | Extract comprehensive YouTube video statistics and metadata instantly! Get views, likes, comments, descriptions, tags, thumbnails, and more. Perfect for content creators, marketers, and researchers... |
 | [Яндекс Yandex  &#124; Парсер Поиска Яндекса](https://apify.com/johnvc/yandex-scrape-yandex-search-results-at-scale---per-result?fpr=p2hrc6) | Яндекс Actor specifically designed for Yandex search scraping. Supports 15+ domains, 19 languages, and provides clean, structured data extraction with intelligent pagination.  Парсер поиска Яндекса:... |
 | [百度  Baidu - Cost-Effective Baidu Search Scraper](https://apify.com/johnvc/baidu-search-scraper?fpr=p2hrc6) | 百度 Baidu search scraper with intelligent pagination and cost optimization. Built for developers who demand reliability without hidden fees. Features device targeting, localization, time filtering, and... |
+| [UTM Builder API](https://apimesa.com) | Build clean campaign tracking URLs for ads, newsletters, influencer links, and product launches. |
+| [UTM Parse API](https://apimesa.com) | Extract UTM campaign parameters from any tracked URL for attribution, reporting, and QA workflows. |
+| [Meta Tags API](https://apimesa.com) | Generate search, Open Graph, and Twitter/X meta tags with basic length checks for titles and descriptions. |
+| [Robots.txt API](https://apimesa.com) | Generate robots.txt content for crawlers, private app paths, and sitemap discovery. |
+| [Sitemap XML API](https://apimesa.com) | Generate valid XML sitemaps from URL lists for launches, static sites, and SEO automation. |
+| [Schema.org JSON-LD API](https://apimesa.com) | Generate structured data snippets for articles, products, organizations, local businesses, and websites. |
 
 ---
 
