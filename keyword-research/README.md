@@ -303,6 +303,7 @@ Keyword discovery, SERP intel, search volume, and autocomplete tools.
 | [YouTube Tags Generator](https://apify.com/dev00/youtube-tags-generator?fpr=p2hrc6) | SEO video tags and keyword generator for YouTube video topics. |
 | [YouTube Video Scraper](https://apify.com/getdataforu/youtube-video-scraper?fpr=p2hrc6) | Scrape YouTube videos. Search by keywords or trending feed. Filter long/short videos, sort by date or views, set language and region. |
 | [Youtube Video Search Scraper](https://apify.com/ecomscrape/youtube-video-search-scraper?fpr=p2hrc6) | Search and extract YouTube video metadata at scale using keywords, filters, or channel/playlist URLs. Retrieve titles, view counts, thumbnails, keywords, and more — with full control over upload date,... |
+| [SEO Rank Checker](https://apimesa.com) | Check where any domain ranks for a keyword across Bing's top 30 organic results, with the full top 10 returned. |
 
 ---
 
