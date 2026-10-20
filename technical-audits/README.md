@@ -177,6 +177,16 @@ Lighthouse, Core Web Vitals, sitemaps, DNS/WHOIS, crawlability, and site health.
 | [Wikipedia Article Scraper](https://apify.com/crawlerbros/wikipedia-scraper?fpr=p2hrc6) | Extract structured data from Wikipedia articles. Get summaries, categories, images, metadata, and descriptions using Wikipedia's official API. Supports 300+ languages. |
 | [Yandex Search Scraper](https://apify.com/crawlerbros/yandex-search-scraper?fpr=p2hrc6) | Scrape Yandex search results including organic results, ads, knowledge graph, inline images, and videos. Supports 17 regional domains, multiple languages, pagination, and time filters. |
 | [Yelp Scraper Pro](https://apify.com/crawlerbros/yelp-scraper-pro?fpr=p2hrc6) | Fast Yelp business scraper with hours, menu, services, photo categories, owner replies, and coordinates. |
+| [Redirect Trace API](https://apimesa.com) | Trace HTTP redirects for a public URL and return each hop, status code, and final destination. |
+| [HTTP Headers Audit API](https://apimesa.com) | Inspect response headers, caching, compression, content type, and basic delivery signals for a public URL. |
+| [SSL Certificate Check API](https://apimesa.com) | Inspect a domain SSL certificate, issuer, validity window, SANs, authorization status, and days until expiry. |
+| [Security Headers Check API](https://apimesa.com) | Score key browser security headers such as CSP, HSTS, X-Frame-Options, Referrer-Policy, and Permissions-Policy. |
+| [Technology Detect API](https://apimesa.com) | Detect common frameworks, CMS platforms, hosts, and server technologies from headers and public HTML signals. |
+| [Favicon Extract API](https://apimesa.com) | Find favicon and app icon URLs from a public page, plus a default /favicon.ico candidate. |
+| [Canonical Check API](https://apimesa.com) | Check whether a page has a canonical URL and whether it is self-referencing and on the same host. |
+| [Broken Link Check API](https://apimesa.com) | Extract links from a public page and check a capped set for broken responses or fetch failures. |
+| [SEO Snapshot Scraper API](https://apimesa.com) | Fetch a public page and return a deterministic SEO snapshot: metadata, headings, link counts, image alt coverage, structured data, robots, and score. |
+| [Site Performance Audit API](https://apimesa.com) | Lighthouse laboratory performance audit with category scores, LCP/CLS measurements and optimization opportunities. Returns a job ID to poll. Public HTTP/HTTPS ports only; 25 MiB transfer, 200… |
 
 ---
 
